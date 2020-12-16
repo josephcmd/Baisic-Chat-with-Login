@@ -5,7 +5,7 @@ import "firebase/firestore";
 import 'firebase/database';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDaNG36uGTsi59NtiM-qn1mZ8sEuaJIs2M",
+    apiKey: "",
     authDomain: "chat-c2c22.firebaseapp.com",
     databaseURL: "https://chat-c2c22.firebaseio.com",
     projectId: "chat-c2c22",
